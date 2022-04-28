@@ -25,6 +25,8 @@
 		<org.mongodb.version>3.0.3</org.mongodb.version>
 		<org.springframework.data.mondodb.version>1.7.2.RELEASE</org.springframework.data.mondodb.version>
 		<log4j.version>1.2.16</log4j.version>
+		<java.version>1.8</java.version>
+		<sonar.host.url>http://54.145.33.111:9000/</sonar.host.url>
 	</properties>
 
 	<modules>
